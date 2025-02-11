@@ -19,8 +19,8 @@ Installation Guide
 bash
 Copy
 Edit
-git clone https://github.com/your-username/nifty-dashboard.git
-cd nifty-dashboard
+git clone https://github.com/prdigitech/nifty_dashboard.git
+cd nifty_dashboard
 2. Create and Activate a Virtual Environment (Optional but Recommended)
 On Windows:
 bash
